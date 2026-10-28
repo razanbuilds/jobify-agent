@@ -1,0 +1,6 @@
+.env
+__pycache__/
+traces/
+data/applications.json
+evals/results/*
+!evals/results/.gitkeep

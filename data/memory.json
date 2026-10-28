@@ -1,0 +1,22 @@
+{
+  "preferred_locations": [
+    "Riyadh",
+    "Jeddah",
+    "Remote"
+  ],
+  "target_roles": [
+    "AI Product Manager",
+    "Data Analyst",
+    "BI Engineer",
+    "AI Engineer",
+    "Data Engineer"
+  ],
+  "min_salary_sar": 10000,
+  "skills_to_prioritize": [
+    "Python",
+    "Power BI",
+    "AWS",
+    "RAG"
+  ],
+  "language": "reply in the language the user writes in"
+}
